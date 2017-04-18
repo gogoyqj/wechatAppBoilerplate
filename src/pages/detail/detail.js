@@ -1,0 +1,6 @@
+Page({
+	pageName: 'detail',
+    onReady: () => {
+
+    }
+});

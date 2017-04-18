@@ -1,0 +1,17 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/detail/detail"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#1ba9ba",
+        "navigationBarTitleText": "wechatAppBoilerplate",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#F0F3F5"
+    },
+    "networkTimeout": {
+        "request": 30000,
+        "connectSocket": 10000
+    }
+}

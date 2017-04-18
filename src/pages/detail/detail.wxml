@@ -1,0 +1,6 @@
+<view class="layout">
+    <view class="detail-text">
+        this is detail!
+    </view>
+     <navigator url="/pages/index/index" hover-class="navigator-hover">Home</navigator>
+</view>
